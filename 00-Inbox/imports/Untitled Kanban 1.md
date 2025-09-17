@@ -1,0 +1,6 @@
+---
+kanban-plugin: board
+created: 2025-08-06T23:10
+updated: 2025-08-06T23:10
+---
+

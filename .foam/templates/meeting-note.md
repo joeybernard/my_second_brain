@@ -1,5 +1,5 @@
 ---
-foam_templae:
+foam_template:
    filepath: "/meetings/${FOAM_DATE_YEAR}-${FOAM_DATE_MONTH}-${FOAM_DATE_DATE}_${FOAM_TITLE}"
    description: "Meeting note"
 ---
